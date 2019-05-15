@@ -1,0 +1,8 @@
+[package]
+name = "ec2-util"
+version = "0.0.1"
+authors = ["Liber Wang <liberwang1013@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+reqwest = "0.9.16"
