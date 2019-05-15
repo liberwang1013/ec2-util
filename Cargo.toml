@@ -1,5 +1,5 @@
 [package]
-name = "ec2-util"
+name = "ec2_util"
 version = "0.0.1"
 authors = ["Liber Wang <liberwang1013@gmail.com>"]
 edition = "2018"
